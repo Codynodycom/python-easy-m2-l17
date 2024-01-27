@@ -12,6 +12,7 @@
 
 1) [Идея бота](/Plan/idea.png)
 2) [Структурирование идеи](/Plan/structure.png)
+3) [Сборка python-скрипта в файл.exe](https://ru.stackoverflow.com/questions/1559630/%D0%98%D0%B3%D1%80%D0%B0-%D0%BD%D0%B0-pygame-%D0%BD%D0%B5-%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%B2-exe)
 
 ### Теория
 
